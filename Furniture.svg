@@ -25,13 +25,13 @@
      inkscape:document-units="in"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="0.86772068"
-     inkscape:cx="377.4256"
-     inkscape:cy="579.1034"
+     inkscape:zoom="0.50383782"
+     inkscape:cx="521.00099"
+     inkscape:cy="524.97052"
      inkscape:window-width="1691"
      inkscape:window-height="1205"
-     inkscape:window-x="2686"
-     inkscape:window-y="86"
+     inkscape:window-x="2588"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:current-layer="g7263-6">
     <sodipodi:guide
@@ -102,7 +102,8 @@
              id="tspan8700">Bed</tspan></text>
       </g>
       <g
-         id="g8737">
+         id="g8737"
+         transform="translate(-2.4405654,-10.062269)">
         <rect
            style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.608996;stroke-dasharray:none;stroke-opacity:1"
            id="rect8718"
@@ -125,7 +126,7 @@
       </g>
       <g
          id="g8745"
-         transform="translate(-3.0507068,76.534225)">
+         transform="translate(-3.0507068,57.019522)">
         <rect
            style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.608996;stroke-dasharray:none;stroke-opacity:1"
            id="rect8739"
@@ -145,6 +146,119 @@
              x="474.23425"
              y="59.601986"
              id="tspan8741">Standing Desk</tspan></text>
+      </g>
+      <g
+         id="g6573"
+         transform="translate(0.91521169,-39.334323)">
+        <rect
+           style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.703092;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6457"
+           width="151.77339"
+           height="83.878799"
+           x="324.9003"
+           y="204.06044" />
+        <text
+           xml:space="preserve"
+           style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+           x="478.97067"
+           y="190.40749"
+           id="text6461"
+           transform="scale(0.74536142,1.341631)"><tspan
+             sodipodi:role="line"
+             style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+             x="478.97067"
+             y="190.40749"
+             id="tspan6459">Mom's Table</tspan></text>
+      </g>
+      <g
+         id="g8141">
+        <rect
+           style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.770695;stroke-dasharray:none;stroke-opacity:1"
+           id="rect8125"
+           width="151.7058"
+           height="100.82917"
+           x="324.32397"
+           y="251.96625" />
+        <text
+           xml:space="preserve"
+           style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+           x="494.97653"
+           y="230.67068"
+           id="text8129"
+           transform="scale(0.74536142,1.341631)"><tspan
+             sodipodi:role="line"
+             style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+             x="494.97653"
+             y="230.67068"
+             id="tspan8127">My Table</tspan></text>
+      </g>
+      <g
+         id="g19966"
+         transform="translate(-14.185786,-7.8770285)">
+        <rect
+           style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.371443;stroke-dasharray:none;stroke-opacity:1"
+           id="rect19952"
+           width="190.22417"
+           height="18.678532"
+           x="500.2518"
+           y="42.701488" />
+        <text
+           xml:space="preserve"
+           style="font-size:12.7032px;letter-spacing:1.32325px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+           x="757.89191"
+           y="43.531162"
+           id="text19956"
+           transform="scale(0.74536142,1.341631)"><tspan
+             sodipodi:role="line"
+             style="font-size:12.7032px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+             x="757.89191"
+             y="43.531162"
+             id="tspan19954">TV Shelves</tspan></text>
+      </g>
+      <g
+         id="g21471"
+         transform="translate(-25.219176,-38.334872)">
+        <rect
+           style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.544508;stroke-dasharray:none;stroke-opacity:1"
+           id="rect21457"
+           width="151.93198"
+           height="50.255424"
+           x="511.28696"
+           y="97.429527" />
+        <text
+           xml:space="preserve"
+           style="font-size:18.9321px;letter-spacing:1.32325px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+           x="739.65375"
+           y="96.637115"
+           id="text21461"
+           transform="scale(0.74536142,1.341631)"><tspan
+             sodipodi:role="line"
+             style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+             x="739.65375"
+             y="96.637115"
+             id="tspan21459">Fireplace</tspan></text>
+      </g>
+      <g
+         id="g25962">
+        <rect
+           style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:1.86148;stroke-dasharray:none;stroke-opacity:1"
+           id="rect25944"
+           width="252.26601"
+           height="353.73807"
+           x="599.12793"
+           y="252.51164" />
+        <text
+           xml:space="preserve"
+           style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+           x="954.58575"
+           y="324.97095"
+           id="text25948"
+           transform="scale(0.74536142,1.341631)"><tspan
+             sodipodi:role="line"
+             style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+             x="954.58575"
+             y="324.97095"
+             id="tspan25955">Rug</tspan></text>
       </g>
     </g>
   </g>
