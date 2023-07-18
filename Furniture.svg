@@ -25,13 +25,13 @@
      inkscape:document-units="in"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="0.50383782"
-     inkscape:cx="521.00099"
-     inkscape:cy="524.97052"
+     inkscape:zoom="0.434375"
+     inkscape:cx="1367.482"
+     inkscape:cy="528.34532"
      inkscape:window-width="1691"
      inkscape:window-height="1205"
-     inkscape:window-x="2588"
-     inkscape:window-y="38"
+     inkscape:window-x="737"
+     inkscape:window-y="111"
      inkscape:window-maximized="0"
      inkscape:current-layer="g7263-6">
     <sodipodi:guide
@@ -148,6 +148,29 @@
              id="tspan8741">Standing Desk</tspan></text>
       </g>
       <g
+         id="g661"
+         transform="matrix(1.1659384,0,0,1.3350638,-91.994833,-42.702999)">
+        <rect
+           style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.608996;stroke-dasharray:none;stroke-opacity:1"
+           id="rect8739-3"
+           width="151.86749"
+           height="62.890923"
+           x="504.21118"
+           y="119.82471" />
+        <text
+           xml:space="preserve"
+           style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+           x="757.30988"
+           y="119.84586"
+           id="text8743-8"
+           transform="scale(0.74536142,1.341631)"><tspan
+             sodipodi:role="line"
+             style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+             x="757.30988"
+             y="119.84586"
+             id="tspan8741-1">Sofa</tspan></text>
+      </g>
+      <g
          id="g6573"
          transform="translate(0.91521169,-39.334323)">
         <rect
@@ -259,6 +282,109 @@
              x="954.58575"
              y="324.97095"
              id="tspan25955">Rug</tspan></text>
+      </g>
+      <g
+         id="g512">
+        <ellipse
+           style="fill:#b6aea8;stroke-width:0"
+           id="path399"
+           cx="306.45099"
+           cy="428.46219"
+           rx="48.707767"
+           ry="47.624939" />
+        <text
+           xml:space="preserve"
+           style="font-size:12.7032px;fill:#000000;stroke-width:0"
+           x="289.26987"
+           y="433.29956"
+           id="text455"
+           transform="scale(1.0002516,0.99974847)"><tspan
+             sodipodi:role="line"
+             id="tspan453"
+             style="fill:#000000;stroke-width:0"
+             x="289.26987"
+             y="433.29956">Chair</tspan></text>
+      </g>
+      <g
+         id="g753"
+         transform="translate(-11.558789,103.97678)">
+        <g
+           id="g860"
+           transform="translate(-8.9317914,5.2513523)">
+          <rect
+             style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.414345;stroke-dasharray:none;stroke-opacity:1"
+             id="rect747"
+             width="105.47211"
+             height="41.918934"
+             x="516.65686"
+             y="97.364449" />
+          <text
+             xml:space="preserve"
+             style="font-size:18.9321px;letter-spacing:1.32325px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+             x="712.5683"
+             y="95.076378"
+             id="text751"
+             transform="scale(0.74536142,1.341631)"><tspan
+               sodipodi:role="line"
+               style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+               x="712.5683"
+               y="95.076378"
+               id="tspan749">Ottoman?</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g974">
+        <rect
+           style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.576905;stroke-dasharray:none;stroke-opacity:1"
+           id="rect955"
+           width="92.603172"
+           height="92.556305"
+           x="448.47229"
+           y="336.09924" />
+        <text
+           xml:space="preserve"
+           style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+           x="663.73462"
+           y="280.27173"
+           id="text959"
+           transform="scale(0.74536142,1.341631)"><tspan
+             sodipodi:role="line"
+             style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+             x="663.73462"
+             y="280.27173"
+             id="tspan957">Coffee</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+             x="663.73462"
+             y="303.93686"
+             id="tspan966">Table</tspan></text>
+      </g>
+      <g
+         id="g1778">
+        <rect
+           style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.236007;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1079"
+           width="37.883118"
+           height="37.863945"
+           x="499.24026"
+           y="264.92569" />
+        <text
+           xml:space="preserve"
+           style="font-size:12.7032px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+           x="695.43213"
+           y="208.36664"
+           id="text1085"
+           transform="scale(0.74536142,1.341631)"><tspan
+             sodipodi:role="line"
+             style="font-size:12.7032px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:none;stroke-width:1.41991;stroke-opacity:1"
+             x="695.43213"
+             y="208.36664"
+             id="tspan1083">Cocktail</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:12.7032px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:none;stroke-width:1.41991;stroke-opacity:1"
+             x="695.43213"
+             y="224.24564"
+             id="tspan1095">Table</tspan></text>
       </g>
     </g>
   </g>
