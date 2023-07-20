@@ -7,7 +7,7 @@
    viewBox="0 0 762 762"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="UpperPrimaryBed.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,15 +25,16 @@
      inkscape:document-units="in"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="0.53364064"
-     inkscape:cx="780.48779"
-     inkscape:cy="962.25805"
-     inkscape:window-width="1691"
-     inkscape:window-height="1205"
-     inkscape:window-x="2751"
-     inkscape:window-y="68"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1">
+     inkscape:zoom="0.40915501"
+     inkscape:cx="962.96022"
+     inkscape:cy="786.98779"
+     inkscape:window-width="1920"
+     inkscape:window-height="989"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:pageshadow="0">
     <sodipodi:guide
        position="0,762"
        orientation="0,1920"
@@ -181,7 +182,7 @@
        id="path1570" />
     <g
        id="g8706"
-       transform="matrix(0.99949831,0,0,1.0000013,49.291833,-68.999267)">
+       transform="matrix(0.99949831,0,0,1.0000013,-10.694967,54.48515)">
       <rect
          style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.544998;stroke-dasharray:none;stroke-opacity:1"
          id="rect3091-8"
@@ -208,7 +209,7 @@
     </g>
     <g
        id="g3084"
-       transform="translate(25.78202,223.11363)">
+       transform="translate(28.494482,-200.65604)">
       <rect
          style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.544862;stroke-dasharray:none;stroke-opacity:1"
          id="rect3066"
@@ -234,6 +235,35 @@
            x="316.27164"
            y="255.03043"
            id="tspan3070">Bed</tspan></text>
+    </g>
+    <g
+       id="g4919"
+       transform="translate(34.109045,0.52927856)">
+      <rect
+         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.486413;stroke-dasharray:none;stroke-opacity:1"
+         id="rect68"
+         width="100.05537"
+         height="60.896797"
+         x="399.52072"
+         y="-372.29095"
+         transform="rotate(90)" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.9274px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41955;stroke-dasharray:none;stroke-opacity:1"
+         x="458.97763"
+         y="330.21832"
+         id="text72"
+         transform="scale(0.74517397,1.3419685)"><tspan
+           sodipodi:role="line"
+           style="font-size:18.9274px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41955;stroke-opacity:1"
+           x="458.97763"
+           y="330.21832"
+           id="tspan70">Second</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:18.9274px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41955;stroke-opacity:1"
+           x="458.97763"
+           y="353.87756"
+           id="tspan1387">Desk</tspan></text>
     </g>
   </g>
 </svg>
