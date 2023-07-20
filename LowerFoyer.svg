@@ -26,8 +26,8 @@
      showgrid="true"
      showguides="true"
      inkscape:zoom="0.4665165"
-     inkscape:cx="1146.7976"
-     inkscape:cy="718.08821"
+     inkscape:cx="563.75284"
+     inkscape:cy="788.82526"
      inkscape:window-width="1920"
      inkscape:window-height="989"
      inkscape:window-x="0"
@@ -109,7 +109,7 @@
        id="path13673" />
     <g
        id="g1457"
-       transform="matrix(1.2494232,0,0,1.4003213,-493.50213,74.287634)">
+       transform="matrix(1.2494232,0,0,1.4003213,-558.40467,107.18405)">
       <rect
          style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.608996;stroke-dasharray:none;stroke-opacity:1"
          id="rect1451"
@@ -129,34 +129,6 @@
            x="716.25848"
            y="119.80888"
            id="tspan1459">Matthew Sofa</tspan></text>
-    </g>
-    <g
-       id="g709"
-       transform="matrix(0,0.99949831,-1.0000013,0,248.92236,-254.74454)">
-      <rect
-         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.544998;stroke-dasharray:none;stroke-opacity:1"
-         id="rect701"
-         width="75.693245"
-         height="101.05487"
-         x="283.88739"
-         y="72.514755" />
-      <text
-         xml:space="preserve"
-         style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-dasharray:none;stroke-opacity:1"
-         x="-140.10355"
-         y="317.01639"
-         id="text707"
-         transform="matrix(0,-0.99949701,1.0005032,0,0,0)"><tspan
-           sodipodi:role="line"
-           style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
-           x="-140.10355"
-           y="317.01639"
-           id="tspan703">Dog</tspan><tspan
-           sodipodi:role="line"
-           style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
-           x="-140.10355"
-           y="338.18301"
-           id="tspan705">Bed</tspan></text>
     </g>
     <g
        id="g1365"
@@ -182,54 +154,218 @@
            id="tspan676">Book Stand (23.5&quot;h)</tspan></text>
     </g>
     <g
-       id="g8706"
-       transform="matrix(0.99949831,0,0,1.0000013,46.691758,169.8513)">
-      <rect
-         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.544998;stroke-dasharray:none;stroke-opacity:1"
-         id="rect3091-8"
-         width="75.693245"
-         height="101.05487"
-         x="283.88739"
-         y="72.514755" />
-      <text
-         xml:space="preserve"
-         style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-dasharray:none;stroke-opacity:1"
-         x="304.73456"
-         y="118.4864"
-         id="text5695-2"><tspan
-           sodipodi:role="line"
-           style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
-           x="304.73456"
-           y="118.4864"
-           id="tspan7255-9">Dog</tspan><tspan
-           sodipodi:role="line"
-           style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
-           x="304.73456"
-           y="139.65302"
-           id="tspan8700">Bed</tspan></text>
+       id="g4186"
+       transform="translate(-119.78539,-45.329649)">
+      <g
+         id="g8141"
+         transform="matrix(0.99949831,0,0,1.0000013,-178.51858,-129.25746)">
+        <rect
+           style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.770695;stroke-dasharray:none;stroke-opacity:1"
+           id="rect8125"
+           width="151.7058"
+           height="100.82917"
+           x="324.32397"
+           y="251.96626" />
+        <text
+           xml:space="preserve"
+           style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+           x="494.97653"
+           y="230.67068"
+           id="text8129"
+           transform="scale(0.74536142,1.341631)"><tspan
+             sodipodi:role="line"
+             style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+             x="494.97653"
+             y="230.67068"
+             id="tspan8127">My Table</tspan></text>
+      </g>
     </g>
     <g
-       id="g8141"
-       transform="matrix(0.99949831,0,0,1.0000013,-178.51858,-129.25746)">
+       id="g1285"
+       transform="matrix(0.99949831,0,0,1.0000013,-656.56778,-115.11175)">
       <rect
-         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.770695;stroke-dasharray:none;stroke-opacity:1"
-         id="rect8125"
-         width="151.7058"
-         height="100.82917"
-         x="324.32397"
-         y="251.96625" />
+         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.272499;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1277"
+         width="37.846622"
+         height="50.527435"
+         x="705.07281"
+         y="143.98375" />
       <text
          xml:space="preserve"
          style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
-         x="494.97653"
-         y="230.67068"
-         id="text8129"
+         x="971.2663"
+         y="121.37591"
+         id="text1283"
+         transform="scale(0.74536142,1.341631)"><tspan
+           sodipodi:role="line"
+           style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+           x="971.2663"
+           y="121.37591"
+           id="tspan1279">Dining</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+           x="971.2663"
+           y="145.04103"
+           id="tspan1281">Chair</tspan></text>
+    </g>
+    <g
+       id="g1285-3"
+       transform="matrix(0.99949831,0,0,1.0000013,-655.44899,34.236162)">
+      <rect
+         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.272499;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1277-6"
+         width="37.846622"
+         height="50.527435"
+         x="705.07281"
+         y="143.98375" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+         x="971.2663"
+         y="121.37591"
+         id="text1283-7"
+         transform="scale(0.74536142,1.341631)"><tspan
+           sodipodi:role="line"
+           style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+           x="971.2663"
+           y="121.37591"
+           id="tspan1279-5">Dining</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+           x="971.2663"
+           y="145.04103"
+           id="tspan1281-3">Chair</tspan></text>
+    </g>
+    <g
+       id="g1285-5"
+       transform="matrix(0.99949831,0,0,1.0000013,-599.76227,34.920722)">
+      <rect
+         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.272499;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1277-62"
+         width="37.846622"
+         height="50.527435"
+         x="705.07281"
+         y="143.98375" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+         x="971.2663"
+         y="121.37591"
+         id="text1283-9"
+         transform="scale(0.74536142,1.341631)"><tspan
+           sodipodi:role="line"
+           style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+           x="971.2663"
+           y="121.37591"
+           id="tspan1279-1">Dining</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+           x="971.2663"
+           y="145.04103"
+           id="tspan1281-2">Chair</tspan></text>
+    </g>
+    <g
+       id="g1285-7"
+       transform="matrix(0.99949831,0,0,1.0000013,-599.7224,-113.33056)">
+      <rect
+         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.272499;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1277-0"
+         width="37.846622"
+         height="50.527435"
+         x="705.07281"
+         y="143.98375" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+         x="971.2663"
+         y="121.37591"
+         id="text1283-93"
+         transform="scale(0.74536142,1.341631)"><tspan
+           sodipodi:role="line"
+           style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+           x="971.2663"
+           y="121.37591"
+           id="tspan1279-6">Dining</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+           x="971.2663"
+           y="145.04103"
+           id="tspan1281-0">Chair</tspan></text>
+    </g>
+    <g
+       id="g1245"
+       transform="matrix(1.2494232,0,0,1.4003213,-357.06952,92.944583)">
+      <rect
+         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.451724;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1239"
+         width="97.848206"
+         height="53.705399"
+         x="-192.62924"
+         y="534.26404"
+         transform="rotate(-90)" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+         x="716.25848"
+         y="119.80888"
+         id="text1243"
          transform="scale(0.74536142,1.341631)"><tspan
            sodipodi:role="line"
            style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
-           x="494.97653"
-           y="230.67068"
-           id="tspan8127">My Table</tspan></text>
+           x="716.25848"
+           y="119.80888"
+           id="tspan1241">Recliner</tspan></text>
+    </g>
+    <g
+       id="g1301"
+       transform="matrix(0.99949831,0,0,1.0000013,152.45771,-75.498348)">
+      <rect
+         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.222833;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1295"
+         width="102.48703"
+         height="12.47715"
+         x="59.769787"
+         y="109.73308" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.7032px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+         x="122.96184"
+         y="91.176582"
+         id="text1299"
+         transform="scale(0.74536142,1.341631)"><tspan
+           sodipodi:role="line"
+           style="font-size:12.7032px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41991;stroke-opacity:1"
+           x="122.96184"
+           y="91.176582"
+           id="tspan1297">2nd TV</tspan></text>
+    </g>
+    <g
+       id="g4192"
+       transform="translate(-75.766635,47.485251)">
+      <rect
+         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.281894;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1259"
+         width="45.224194"
+         height="45.250549"
+         x="340.36185"
+         y="270.02246" />
+      <text
+         xml:space="preserve"
+         style="font-size:15.1731px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.69598;stroke-dasharray:none;stroke-opacity:1"
+         x="487.66827"
+         y="214.183"
+         id="text1263"
+         transform="scale(0.74495577,1.3423616)"><tspan
+           sodipodi:role="line"
+           style="font-size:15.1731px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:none;stroke-width:1.69598;stroke-opacity:1"
+           x="487.66827"
+           y="214.183"
+           id="tspan1261">Ikea</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:15.1731px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:none;stroke-width:1.69598;stroke-opacity:1"
+           x="487.66827"
+           y="233.14937"
+           id="tspan1267">Table</tspan></text>
     </g>
   </g>
 </svg>

@@ -7,7 +7,7 @@
    viewBox="0 0 406.4 304.8"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="LowerBed.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,13 +25,13 @@
      inkscape:document-units="in"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="0.4665165"
-     inkscape:cx="1145.7258"
-     inkscape:cy="922.79694"
-     inkscape:window-width="1691"
-     inkscape:window-height="1205"
-     inkscape:window-x="3178"
-     inkscape:window-y="145"
+     inkscape:zoom="0.73383018"
+     inkscape:cx="555.98694"
+     inkscape:cy="412.90207"
+     inkscape:window-width="960"
+     inkscape:window-height="989"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <sodipodi:guide
@@ -87,5 +87,61 @@
        style="fill:#000000;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
        d="M 293.44403,0 V 215.9"
        id="path977-5" />
+    <g
+       id="g2276"
+       transform="matrix(1.0017345,0,0,0.49894709,-302.77346,27.96862)">
+      <rect
+         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:1.28449;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2268"
+         width="168.13351"
+         height="252.71552"
+         x="305.44223"
+         y="51.442245" />
+      <text
+         xml:space="preserve"
+         style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-dasharray:none;stroke-opacity:1"
+         x="352.74438"
+         y="173.38892"
+         id="text2274"><tspan
+           sodipodi:role="line"
+           style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
+           x="352.74438"
+           y="173.38892"
+           id="tspan2270">QUEEN</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
+           x="352.74438"
+           y="194.55554"
+           id="tspan2272">BED</tspan></text>
+    </g>
+    <g
+       id="g1235"
+       transform="translate(-38.751554,-112.61139)">
+      <rect
+         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.254148;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1229"
+         width="49.487522"
+         height="33.612518"
+         x="-165.55138"
+         y="41.726322"
+         transform="rotate(-90)" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41955;stroke-dasharray:none;stroke-opacity:1"
+         x="78.699257"
+         y="101.72327"
+         id="text1233"
+         transform="scale(0.74517397,1.3419685)"><tspan
+           sodipodi:role="line"
+           style="font-size:12.7px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:none;stroke-width:1.41955;stroke-opacity:1"
+           x="78.699257"
+           y="101.72327"
+           id="tspan1231">Night</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:12.7px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:none;stroke-width:1.41955;stroke-opacity:1"
+           x="78.699257"
+           y="117.59827"
+           id="tspan1237">stand</tspan></text>
+    </g>
   </g>
 </svg>

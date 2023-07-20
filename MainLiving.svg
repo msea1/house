@@ -26,8 +26,8 @@
      showgrid="true"
      showguides="true"
      inkscape:zoom="0.48550046"
-     inkscape:cx="1056.6416"
-     inkscape:cy="893.92294"
+     inkscape:cx="908.34105"
+     inkscape:cy="860.96726"
      inkscape:window-width="1920"
      inkscape:window-height="989"
      inkscape:window-x="0"
@@ -452,6 +452,38 @@
            x="295.34122"
            y="144.29884"
            id="tspan1467">Bed</tspan></text>
+    </g>
+    <g
+       id="g8706"
+       transform="matrix(0.94384543,0,0,0.97911159,103.00413,330.1588)">
+      <rect
+         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.544998;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3091-8"
+         width="75.693245"
+         height="101.05487"
+         x="283.88739"
+         y="72.514755" />
+      <text
+         xml:space="preserve"
+         style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-dasharray:none;stroke-opacity:1"
+         x="304.73456"
+         y="118.4864"
+         id="text5695-2"><tspan
+           sodipodi:role="line"
+           style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
+           x="304.73456"
+           y="118.4864"
+           id="tspan7255-9">Lg. B</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
+           x="304.73456"
+           y="139.65302"
+           id="tspan385">Dog</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
+           x="304.73456"
+           y="160.81964"
+           id="tspan8700">Bed</tspan></text>
     </g>
   </g>
 </svg>

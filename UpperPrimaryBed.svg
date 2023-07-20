@@ -27,12 +27,12 @@
      showguides="true"
      inkscape:zoom="0.40915501"
      inkscape:cx="962.96022"
-     inkscape:cy="1354.0101"
-     inkscape:window-width="1920"
+     inkscape:cy="1041.1702"
+     inkscape:window-width="960"
      inkscape:window-height="989"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      inkscape:pageshadow="0">
     <sodipodi:guide
@@ -181,11 +181,43 @@
        d="M 411.6171,403.225 V 501.65"
        id="path1570" />
     <g
-       id="g8706"
-       transform="matrix(0.99949831,0,0,1.0000013,-10.694967,54.48515)">
+       id="g1203"
+       transform="matrix(0.83246631,0,0,1.0000571,99.641635,-69.12512)">
+      <rect
+         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.573303;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1193"
+         width="88.419281"
+         height="95.72953"
+         x="283.90155"
+         y="72.528908" />
+      <text
+         xml:space="preserve"
+         style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-dasharray:none;stroke-opacity:1"
+         x="304.73456"
+         y="118.4864"
+         id="text1201"><tspan
+           sodipodi:role="line"
+           style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
+           x="304.73456"
+           y="118.4864"
+           id="tspan1195">Ellie</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
+           x="304.73456"
+           y="139.65302"
+           id="tspan1197">Dog</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
+           x="304.73456"
+           y="160.81964"
+           id="tspan1199">Bed</tspan></text>
+    </g>
+    <g
+       id="g1227"
+       transform="matrix(0.83246631,0,0,1.0000571,56.057014,54.561953)">
       <rect
          style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.544998;stroke-dasharray:none;stroke-opacity:1"
-         id="rect3091-8"
+         id="rect1217"
          width="75.693245"
          height="101.05487"
          x="283.88739"
@@ -195,103 +227,50 @@
          style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-dasharray:none;stroke-opacity:1"
          x="304.73456"
          y="118.4864"
-         id="text5695-2"><tspan
+         id="text1225"><tspan
            sodipodi:role="line"
            style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
            x="304.73456"
            y="118.4864"
-           id="tspan7255-9">Dog</tspan><tspan
+           id="tspan1219">Red</tspan><tspan
            sodipodi:role="line"
            style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
            x="304.73456"
            y="139.65302"
-           id="tspan8700">Bed</tspan></text>
+           id="tspan1221">Dog</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
+           x="304.73456"
+           y="160.81964"
+           id="tspan1223">Bed</tspan></text>
     </g>
     <g
-       id="g3084"
-       transform="translate(28.494482,-200.65604)">
+       id="g672"
+       transform="matrix(0.99949831,0,0,1.0000013,70.563887,262.79366)">
       <rect
-         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.544862;stroke-dasharray:none;stroke-opacity:1"
-         id="rect3066"
-         width="75.655273"
-         height="101.055"
-         x="200.65604"
-         y="-383.71051"
-         transform="rotate(90)" />
-      <text
-         xml:space="preserve"
-         style="font-size:16.9291px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.26968;stroke-dasharray:none;stroke-opacity:1"
-         x="316.27164"
-         y="233.86905"
-         id="text3072"
-         transform="scale(0.99974847,1.0002516)"><tspan
-           sodipodi:role="line"
-           style="font-size:16.9291px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.26968;stroke-opacity:1"
-           x="316.27164"
-           y="233.86905"
-           id="tspan3068">Dog</tspan><tspan
-           sodipodi:role="line"
-           style="font-size:16.9291px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.26968;stroke-opacity:1"
-           x="316.27164"
-           y="255.03043"
-           id="tspan3070">Bed</tspan></text>
-    </g>
-    <g
-       id="g4919"
-       transform="translate(37.813214,1.5876119)">
-      <rect
-         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.486413;stroke-dasharray:none;stroke-opacity:1"
-         id="rect68"
-         width="100.05537"
-         height="60.896797"
-         x="399.52072"
-         y="-372.29095"
-         transform="rotate(90)" />
-      <text
-         xml:space="preserve"
-         style="font-size:18.9274px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41955;stroke-dasharray:none;stroke-opacity:1"
-         x="458.97763"
-         y="330.21832"
-         id="text72"
-         transform="scale(0.74517397,1.3419685)"><tspan
-           sodipodi:role="line"
-           style="font-size:18.9274px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41955;stroke-opacity:1"
-           x="458.97763"
-           y="330.21832"
-           id="tspan70">Second</tspan><tspan
-           sodipodi:role="line"
-           style="font-size:18.9274px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41955;stroke-opacity:1"
-           x="458.97763"
-           y="353.87756"
-           id="tspan1387">Desk</tspan></text>
-    </g>
-    <g
-       id="g350"
-       transform="matrix(0.99949831,0,0,1.0000013,-411.80654,282.34373)">
-      <rect
-         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.393344;stroke-dasharray:none;stroke-opacity:1"
-         id="rect230"
-         width="63.138531"
-         height="63.106575"
-         x="697.40576"
-         y="140.3624" />
+         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.39136;stroke-dasharray:none;stroke-opacity:1"
+         id="rect653"
+         width="56.787327"
+         height="69.458549"
+         x="244.14027"
+         y="166.81256" />
       <text
          xml:space="preserve"
          style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
-         x="977.48395"
-         y="123.3647"
-         id="text234"
+         x="365.10843"
+         y="145.44688"
+         id="text659"
          transform="scale(0.74536142,1.341631)"><tspan
            sodipodi:role="line"
            style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
-           x="977.48395"
-           y="123.3647"
-           id="tspan232">Desk</tspan><tspan
+           x="365.10843"
+           y="145.44688"
+           id="tspan655">Ikea</tspan><tspan
            sodipodi:role="line"
            style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
-           x="977.48395"
-           y="147.02983"
-           id="tspan340">Chair</tspan></text>
+           x="365.10843"
+           y="169.11201"
+           id="tspan657">Chair</tspan></text>
     </g>
   </g>
 </svg>
