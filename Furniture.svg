@@ -7,7 +7,7 @@
    viewBox="0 0 762 762"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="Furniture.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,7 +26,7 @@
      showgrid="true"
      showguides="true"
      inkscape:zoom="0.434375"
-     inkscape:cx="930.07194"
+     inkscape:cx="473.09353"
      inkscape:cy="527.19424"
      inkscape:window-width="1920"
      inkscape:window-height="989"
@@ -408,6 +408,137 @@
              x="933.47577"
              y="67.450706"
              id="tspan70">Second Desk</tspan></text>
+      </g>
+      <g
+         id="g350">
+        <rect
+           style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.393344;stroke-dasharray:none;stroke-opacity:1"
+           id="rect230"
+           width="63.138531"
+           height="63.106575"
+           x="697.40576"
+           y="140.3624" />
+        <text
+           xml:space="preserve"
+           style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+           x="977.48395"
+           y="123.3647"
+           id="text234"
+           transform="scale(0.74536142,1.341631)"><tspan
+             sodipodi:role="line"
+             style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+             x="977.48395"
+             y="123.3647"
+             id="tspan232">Desk</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+             x="977.48395"
+             y="147.02983"
+             id="tspan340">Chair</tspan></text>
+      </g>
+      <g
+         id="g672">
+        <rect
+           style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.39136;stroke-dasharray:none;stroke-opacity:1"
+           id="rect653"
+           width="56.787327"
+           height="69.458549"
+           x="244.14027"
+           y="166.81256" />
+        <text
+           xml:space="preserve"
+           style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+           x="365.10843"
+           y="145.44688"
+           id="text659"
+           transform="scale(0.74536142,1.341631)"><tspan
+             sodipodi:role="line"
+             style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+             x="365.10843"
+             y="145.44688"
+             id="tspan655">Ikea</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+             x="365.10843"
+             y="169.11201"
+             id="tspan657">Chair</tspan></text>
+      </g>
+      <g
+         id="g1365">
+        <rect
+           style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.398788;stroke-dasharray:none;stroke-opacity:1"
+           id="rect674"
+           width="100.19334"
+           height="40.87616"
+           x="59.857765"
+           y="103.05618" />
+        <text
+           xml:space="preserve"
+           style="font-size:12.7032px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+           x="83.078064"
+           y="96.036217"
+           id="text678"
+           transform="scale(0.74536142,1.341631)"><tspan
+             sodipodi:role="line"
+             style="font-size:12.7032px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41991;stroke-opacity:1"
+             x="83.078064"
+             y="96.036217"
+             id="tspan676">Book Stand (23.5&quot;h)</tspan></text>
+      </g>
+      <g
+         id="g1457"
+         transform="matrix(1.2500503,0,0,1.4003195,-618.22101,13.958385)">
+        <rect
+           style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.608996;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1451"
+           width="151.86749"
+           height="62.890923"
+           x="506.36246"
+           y="119.82471" />
+        <text
+           xml:space="preserve"
+           style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+           x="716.25848"
+           y="119.80888"
+           id="text1455"
+           transform="scale(0.74536142,1.341631)"><tspan
+             sodipodi:role="line"
+             style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
+             x="716.25848"
+             y="119.80888"
+             id="tspan1459">Matthew Sofa</tspan></text>
+      </g>
+      <g
+         id="g1471"
+         transform="translate(-139.10811,-81.397948)">
+        <rect
+           style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.425421;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1463"
+           width="56.753262"
+           height="82.124474"
+           x="283.82761"
+           y="75.906029" />
+        <text
+           xml:space="preserve"
+           style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-dasharray:none;stroke-opacity:1"
+           x="295.34122"
+           y="101.96559"
+           id="text1469"><tspan
+             sodipodi:role="line"
+             style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
+             x="295.34122"
+             y="101.96559"
+             id="tspan1465">Sm.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
+             x="295.34122"
+             y="123.13221"
+             id="tspan1533">Dog</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:16.9333px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.27;stroke-opacity:1"
+             x="295.34122"
+             y="144.29883"
+             id="tspan1467">Bed</tspan></text>
       </g>
     </g>
   </g>
