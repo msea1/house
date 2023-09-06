@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20in"
+   height="20in"
+   viewBox="0 0 508 508"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="UpperPatio.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="0.48550046"
+     inkscape:cx="848.60888"
+     inkscape:cy="1078.2688"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,508"
+       orientation="0,1920"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="508,508"
+       orientation="1920,0"
+       id="guide11"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="508,0"
+       orientation="0,-1920"
+       id="guide13"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-1920,0"
+       id="guide15"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid17"
+       units="in"
+       spacingx="6.35"
+       spacingy="6.35"
+       empspacing="4"
+       dotted="true"
+       originx="0"
+       originy="0"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.43538;stroke-dasharray:none;stroke-opacity:1"
+       d="M 101.6,1.243745 H 0"
+       id="path12941" />
+    <g
+       id="g1254"
+       transform="translate(-444.36628)">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:1.89465;stroke-dasharray:none;stroke-opacity:1"
+         d="M 445.32389,0 V 97.3582"
+         id="path891" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:2.01859;stroke-dasharray:2.01859, 4.03718;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 445.52038,97.366667 V 402.16667"
+         id="path977-5-1" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:1.91521;stroke-dasharray:none;stroke-opacity:1"
+         d="m 445.32389,402.1582 v 99.48333"
+         id="path6251" />
+    </g>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.43538;stroke-dasharray:none;stroke-opacity:1"
+       d="M 101.6,502.36769 H 0"
+       id="path1256" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.905;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 100.27453,2.1798812 112.30671,102.35054 123.16329,251.77628 112.84245,397.87874 101.36447,501.91765"
+       id="path1989"
+       sodipodi:nodetypes="ccccc" />
+    <ellipse
+       style="fill:#ff7f2a;stroke:#ff0000;stroke-width:1.38857;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2769"
+       cx="9.5250015"
+       cy="56.091667"
+       rx="2.4807162"
+       ry="2.4807169" />
+    <ellipse
+       style="fill:#00ff00;stroke:#0000ff;stroke-width:1.38857;stroke-dasharray:none;stroke-dashoffset:0"
+       id="ellipse2771"
+       cx="9.5250015"
+       cy="16.933334"
+       rx="2.4807162"
+       ry="2.4807169" />
+    <g
+       id="g3462"
+       transform="matrix(1.5027335,0,0,2.6247252,-252.22031,-544.60019)">
+      <rect
+         style="fill:#e6e6e6;stroke:#666666;stroke-width:1.8031;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3091"
+         width="32.055099"
+         height="32.047089"
+         x="179.17918"
+         y="210.30573" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.635;stroke-dasharray:none;stroke-dashoffset:0"
+         x="195.34367"
+         y="230.26959"
+         id="text3303"><tspan
+           sodipodi:role="line"
+           id="tspan3301"
+           style="font-size:10.5833px;fill:#000000;stroke:none;stroke-width:0.635;stroke-dasharray:none"
+           x="195.34367"
+           y="230.26959">Seat</tspan></text>
+    </g>
+  </g>
+</svg>
