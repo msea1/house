@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50in"
+   height="8in"
+   viewBox="0 0 1270.0025 203.2004"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="YardSouth.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="0.43770833"
+     inkscape:cx="2968.872"
+     inkscape:cy="384.95954"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="2560"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,203.19939"
+       orientation="0,1920"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="507.99999,203.19939"
+       orientation="1920,0"
+       id="guide11"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="507.99999,-304.8006"
+       orientation="0,-1920"
+       id="guide13"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,-304.8006"
+       orientation="-1920,0"
+       id="guide15"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid17"
+       units="in"
+       spacingx="6.35"
+       spacingy="6.35"
+       empspacing="4"
+       dotted="true"
+       originx="0"
+       originy="0"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.2700025,0 V 127.00025"
+       id="path190" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1270.0025,1.27 H 0"
+       id="path9375" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2.54;stroke-dasharray:2.54, 7.62;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 908.04334,131.97444 H 840.30987"
+       id="path9389" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.4583px;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#666666;stroke-width:2.54;stroke-dasharray:none;stroke-dashoffset:0"
+       x="364.49408"
+       y="486.92126"
+       id="text10457"><tspan
+         sodipodi:role="line"
+         id="tspan10455"
+         style="font-size:26.4583px;fill:#000000;stroke:none;stroke-width:2.54;stroke-dasharray:none"
+         x="364.49408"
+         y="486.92126" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.4583px;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#666666;stroke-width:2.54;stroke-dasharray:none;stroke-dashoffset:0"
+       x="1227.6077"
+       y="172.3486"
+       id="text10461"><tspan
+         sodipodi:role="line"
+         id="tspan10459"
+         style="font-size:26.4583px;fill:#000000;stroke:none;stroke-width:2.54;stroke-dasharray:none"
+         x="1227.6077"
+         y="172.3486">W --&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.4583px;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#666666;stroke-width:2.54;stroke-dasharray:none;stroke-dashoffset:0"
+       x="40.384701"
+       y="175.58324"
+       id="text10465"><tspan
+         sodipodi:role="line"
+         id="tspan10463"
+         style="font-size:26.4583px;fill:#000000;stroke:none;stroke-width:2.54;stroke-dasharray:none"
+         x="40.384701"
+         y="175.58324">&lt;-- E</tspan></text>
+    <rect
+       style="fill:#e6e6e6;stroke:#666666;stroke-width:1.27442;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11009"
+       width="87.625755"
+       x="-126.36304"
+       y="98.004066"
+       height="172.2926"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#e6e6e6;stroke:#666666;stroke-width:1.27442;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11011"
+       width="87.625755"
+       x="-126.36304"
+       y="409.15469"
+       height="172.29259"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#e6e6e6;stroke:#666666;stroke-width:1.88488;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect12465"
+       width="93.365311"
+       x="-126.05782"
+       y="765.04364"
+       height="353.71582"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.4583px;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#666666;stroke-width:2.54;stroke-dasharray:none;stroke-dashoffset:0"
+       x="184.05348"
+       y="92.142586"
+       id="text12516"><tspan
+         sodipodi:role="line"
+         id="tspan12514"
+         style="font-size:26.4583px;fill:#000000;stroke:none;stroke-width:2.54;stroke-dasharray:none"
+         x="184.05348"
+         y="92.142586">Grate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.4583px;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#666666;stroke-width:2.54;stroke-dasharray:none;stroke-dashoffset:0"
+       x="495.2041"
+       y="92.142586"
+       id="text12520"><tspan
+         sodipodi:role="line"
+         id="tspan12518"
+         style="font-size:26.4583px;fill:#000000;stroke:none;stroke-width:2.54;stroke-dasharray:none"
+         x="495.2041"
+         y="92.142586">Grate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.4583px;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#666666;stroke-width:2.54;stroke-dasharray:none;stroke-dashoffset:0"
+       x="941.57855"
+       y="88.96759"
+       id="text12524"><tspan
+         sodipodi:role="line"
+         id="tspan12522"
+         style="font-size:26.4583px;fill:#000000;stroke:none;stroke-width:2.54;stroke-dasharray:none"
+         x="941.57855"
+         y="88.96759">Stairs</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1271.2725,0 V 127.00025"
+       id="path13252" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1270.0025,128.27025 H 0"
+       id="path13254" />
+  </g>
+</svg>

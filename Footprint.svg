@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120in"
+   height="30in"
+   viewBox="0 0 3048 762"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="Footprint.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="0.18784722"
+     inkscape:cx="5669.5009"
+     inkscape:cy="1440"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,762"
+       orientation="0,1920"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="508,762"
+       orientation="1920,0"
+       id="guide11"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="508,254"
+       orientation="0,-1920"
+       id="guide13"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,254"
+       orientation="-1920,0"
+       id="guide15"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid17"
+       units="in"
+       spacingx="6.35"
+       spacingy="6.35"
+       empspacing="4"
+       dotted="true"
+       originx="0"
+       originy="0"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3462"
+       transform="matrix(60.348335,0,0,17.308936,-10399.276,-3511.0195)"
+       style="fill:none;stroke:#333333;stroke-width:0.248245;stroke-dasharray:none">
+      <rect
+         style="fill:none;stroke:#333333;stroke-width:0.248245;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3091"
+         width="32.055099"
+         height="32.047089"
+         x="179.17918"
+         y="210.30573" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.18643px;text-align:center;text-anchor:middle;fill:none;stroke:#333333;stroke-width:0.248245;stroke-dasharray:none;stroke-dashoffset:0"
+         x="195.34367"
+         y="230.26959"
+         id="text3303"><tspan
+           sodipodi:role="line"
+           id="tspan3301"
+           style="font-size:8.18643px;fill:#ffcc00;stroke:#333333;stroke-width:0.248245;stroke-dasharray:none"
+           x="195.34367"
+           y="230.26959">HOUSE</tspan></text>
+    </g>
+  </g>
+</svg>

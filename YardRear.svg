@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30in"
+   height="44in"
+   viewBox="0 0 762.00152 1117.6022"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="YardRear.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="0.40520833"
+     inkscape:cx="702.10797"
+     inkscape:cy="1047.6093"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="2560"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,1117.6012"
+       orientation="0,1920"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="508,1117.6012"
+       orientation="1920,0"
+       id="guide11"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="508,609.60121"
+       orientation="0,-1920"
+       id="guide13"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,609.60121"
+       orientation="-1920,0"
+       id="guide15"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid17"
+       units="in"
+       spacingx="6.35"
+       spacingy="6.35"
+       empspacing="4"
+       dotted="true"
+       originx="0"
+       originy="0"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:25.2071px;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#666666;stroke-width:2.41989;stroke-dasharray:none;stroke-dashoffset:0"
+       x="299.85754"
+       y="23.18858"
+       id="text10457"
+       transform="scale(1.2715192,0.78646079)"><tspan
+         sodipodi:role="line"
+         id="tspan10455"
+         style="font-size:25.2071px;fill:#000000;stroke:none;stroke-width:2.41989;stroke-dasharray:none"
+         x="299.85754"
+         y="23.18858">Alley</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.2071px;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#666666;stroke-width:2.41989;stroke-dasharray:none;stroke-dashoffset:0"
+       x="41.106159"
+       y="23.18858"
+       id="text13318"
+       transform="scale(1.2715192,0.78646079)"><tspan
+         sodipodi:role="line"
+         id="tspan13316"
+         style="font-size:25.2071px;fill:#000000;stroke:none;stroke-width:2.41989;stroke-dasharray:none"
+         x="41.106159"
+         y="23.18858">&lt;-- S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.2071px;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#666666;stroke-width:2.41989;stroke-dasharray:none;stroke-dashoffset:0"
+       x="552.5379"
+       y="23.18858"
+       id="text13322"
+       transform="scale(1.2715192,0.78646079)"><tspan
+         sodipodi:role="line"
+         id="tspan13320"
+         style="font-size:25.2071px;fill:#000000;stroke:none;stroke-width:2.41989;stroke-dasharray:none"
+         x="552.5379"
+         y="23.18858">N --&gt;</tspan></text>
+    <g
+       id="g1380">
+      <g
+         id="g1208"
+         transform="translate(25.400051)">
+        <rect
+           style="fill:#ffd5d5;stroke:#ff2a2a;stroke-width:2.54001"
+           id="rect13376"
+           width="613.83453"
+           height="376.76743"
+           x="45.288292"
+           y="26.670055" />
+        <rect
+           style="fill:#e9c6af;stroke:#a05a2c;stroke-width:2.46016"
+           id="rect13642"
+           width="73.73999"
+           height="77.973335"
+           x="352.59744"
+           y="322.94711" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:25.2071px;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#666666;stroke-width:2.41989;stroke-dasharray:none;stroke-dashoffset:0"
+         x="272.24911"
+         y="266.85397"
+         id="text13484"
+         transform="scale(1.2715192,0.78646079)"><tspan
+           sodipodi:role="line"
+           id="tspan13482"
+           style="font-size:25.2071px;fill:#000000;stroke:none;stroke-width:2.41989;stroke-dasharray:none"
+           x="272.24911"
+           y="266.85397">Garage</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:25.2071px;fill:#000000;stroke:none;stroke-width:2.41989;stroke-dasharray:none"
+           x="272.24911"
+           y="298.36285"
+           id="tspan13588">Tiles</tspan></text>
+    </g>
+    <rect
+       style="fill:#e6e6e6;stroke:#666666;stroke-width:2.54001"
+       id="rect13800"
+       width="491.05917"
+       height="158.75032"
+       x="166.37033"
+       y="923.935" />
+    <rect
+       style="fill:#ffe6d5;stroke:#502d16;stroke-width:2.89175"
+       id="rect13906"
+       width="657.21167"
+       height="153.7419"
+       x="27.116055"
+       y="406.31549" />
+    <rect
+       style="fill:#e3e2db;stroke:#6c6753;stroke-width:2.49319"
+       id="rect13960"
+       width="132.96529"
+       height="132.96529"
+       x="244.83308"
+       y="561.34308" />
+    <rect
+       style="fill:#f6ffd5;stroke:#88aa00;stroke-width:3.1089"
+       id="rect14222"
+       width="517.91449"
+       height="225.49156"
+       x="166.65479"
+       y="695.68427" />
+    <rect
+       style="fill:#e6e6e6;stroke:#666666;stroke-width:2.31338"
+       id="rect1210"
+       width="124.68689"
+       height="518.61615"
+       x="26.556742"
+       y="562.73615" />
+    <rect
+       style="fill:#d38d5f;stroke:#502d16;stroke-width:2.38002"
+       id="rect1368"
+       width="73.820129"
+       height="23.020035"
+       x="-261.91385"
+       y="370.0687"
+       transform="rotate(-38.712109)" />
+    <rect
+       style="fill:#f6ffd5;stroke:#88aa00;stroke-width:1.83854"
+       id="rect1370"
+       width="305.66772"
+       height="133.61993"
+       x="379.53674"
+       y="560.53979" />
+    <rect
+       style="fill:#f6ffd5;stroke:#88aa00;stroke-width:0.928246"
+       id="rect1372"
+       width="77.389893"
+       height="134.53021"
+       x="165.56445"
+       y="560.73761" />
+    <text
+       xml:space="preserve"
+       style="font-size:25.2071px;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#666666;stroke-width:2.41989;stroke-dasharray:none;stroke-dashoffset:0"
+       x="278.78897"
+       y="623.76581"
+       id="text1414"
+       transform="scale(1.2715192,0.78646079)"><tspan
+         sodipodi:role="line"
+         id="tspan1412"
+         style="font-size:25.2071px;fill:#000000;stroke:none;stroke-width:2.41989;stroke-dasharray:none"
+         x="278.78897"
+         y="623.76581">Middle Dirt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.2071px;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#666666;stroke-width:2.41989;stroke-dasharray:none;stroke-dashoffset:0"
+       x="244.60991"
+       y="791.67682"
+       id="text1520"
+       transform="scale(1.2715192,0.78646079)"><tspan
+         sodipodi:role="line"
+         id="tspan1518"
+         style="font-size:25.2071px;fill:#000000;stroke:none;stroke-width:2.41989;stroke-dasharray:none"
+         x="244.60991"
+         y="791.67682">Stone</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:25.2071px;fill:#000000;stroke:none;stroke-width:2.41989;stroke-dasharray:none"
+         x="244.60991"
+         y="823.18567"
+         id="tspan1540">Stairs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.2071px;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#666666;stroke-width:2.41989;stroke-dasharray:none;stroke-dashoffset:0"
+       x="333.58252"
+       y="1021.1525"
+       id="text1524"
+       transform="scale(1.2715192,0.78646079)"><tspan
+         sodipodi:role="line"
+         id="tspan1522"
+         style="font-size:25.2071px;fill:#000000;stroke:none;stroke-width:2.41989;stroke-dasharray:none"
+         x="333.58252"
+         y="1021.1525">Upper</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:25.2071px;fill:#000000;stroke:none;stroke-width:2.41989;stroke-dasharray:none"
+         x="333.58252"
+         y="1052.6614"
+         id="tspan1538">Grass</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.2071px;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#666666;stroke-width:2.41989;stroke-dasharray:none;stroke-dashoffset:0"
+       x="323.85083"
+       y="1269.1125"
+       id="text1528"
+       transform="scale(1.2715192,0.78646079)"><tspan
+         sodipodi:role="line"
+         id="tspan1526"
+         style="font-size:25.2071px;fill:#000000;stroke:none;stroke-width:2.41989;stroke-dasharray:none"
+         x="323.85083"
+         y="1269.1125">Concrete</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:25.2071px;fill:#000000;stroke:none;stroke-width:2.41989;stroke-dasharray:none"
+         x="323.85083"
+         y="1300.6215"
+         id="tspan1536">Patio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.2071px;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#666666;stroke-width:2.41989;stroke-dasharray:none;stroke-dashoffset:0"
+       x="69.608803"
+       y="1038.8755"
+       id="text1532"
+       transform="scale(1.2715192,0.78646079)"><tspan
+         sodipodi:role="line"
+         id="tspan1530"
+         style="font-size:25.2071px;fill:#000000;stroke:none;stroke-width:2.41989;stroke-dasharray:none"
+         x="69.608803"
+         y="1038.8755">Side</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:25.2071px;fill:#000000;stroke:none;stroke-width:2.41989;stroke-dasharray:none"
+         x="69.608803"
+         y="1070.3844"
+         id="tspan1534">Stairs</tspan></text>
+  </g>
+</svg>

@@ -3,8 +3,8 @@
 
 <svg
    width="20in"
-   height="20in"
-   viewBox="0 0 508 508"
+   height="6in"
+   viewBox="0 0 508.00102 152.40031"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
@@ -26,31 +26,31 @@
      showgrid="true"
      showguides="true"
      inkscape:zoom="0.48550046"
-     inkscape:cx="848.60888"
+     inkscape:cx="810.50387"
      inkscape:cy="1078.2688"
      inkscape:window-width="2560"
      inkscape:window-height="1387"
-     inkscape:window-x="0"
+     inkscape:window-x="2560"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="g3462">
     <sodipodi:guide
-       position="0,508"
+       position="0,152.4"
        orientation="0,1920"
        id="guide9"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="508,508"
+       position="508,152.4"
        orientation="1920,0"
        id="guide11"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="508,0"
+       position="508,-355.6"
        orientation="0,-1920"
        id="guide13"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0"
+       position="0,-355.6"
        orientation="-1920,0"
        id="guide15"
        inkscape:locked="false" />
@@ -74,11 +74,11 @@
      id="layer1">
     <path
        style="fill:#000000;stroke:#000000;stroke-width:1.43538;stroke-dasharray:none;stroke-opacity:1"
-       d="M 101.6,1.243745 H 0"
+       d="M 1.24374,22.518231 V 124.11823"
        id="path12941" />
     <g
        id="g1254"
-       transform="translate(-444.36628)">
+       transform="rotate(-90,284.24225,284.24225)">
       <path
          style="fill:#000000;stroke:#000000;stroke-width:1.89465;stroke-dasharray:none;stroke-opacity:1"
          d="M 445.32389,0 V 97.3582"
@@ -94,30 +94,32 @@
     </g>
     <path
        style="fill:#000000;stroke:#000000;stroke-width:1.43538;stroke-dasharray:none;stroke-opacity:1"
-       d="M 101.6,502.36769 H 0"
+       d="M 502.36769,22.518231 V 124.11823"
        id="path1256" />
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:1.905;stroke-dasharray:none;stroke-dashoffset:0"
-       d="M 100.27453,2.1798812 112.30671,102.35054 123.16329,251.77628 112.84245,397.87874 101.36447,501.91765"
+       d="M 2.17988,23.843701 102.35054,11.811521 251.77628,0.95494119 397.87874,11.275781 501.91765,22.753761"
        id="path1989"
        sodipodi:nodetypes="ccccc" />
     <ellipse
        style="fill:#ff7f2a;stroke:#ff0000;stroke-width:1.38857;stroke-dasharray:none;stroke-dashoffset:0"
        id="path2769"
-       cx="9.5250015"
-       cy="56.091667"
+       cx="-114.59323"
+       cy="56.091663"
        rx="2.4807162"
-       ry="2.4807169" />
+       ry="2.4807169"
+       transform="rotate(-90)" />
     <ellipse
        style="fill:#00ff00;stroke:#0000ff;stroke-width:1.38857;stroke-dasharray:none;stroke-dashoffset:0"
        id="ellipse2771"
-       cx="9.5250015"
-       cy="16.933334"
+       cx="-114.59323"
+       cy="16.933323"
        rx="2.4807162"
-       ry="2.4807169" />
+       ry="2.4807169"
+       transform="rotate(-90)" />
     <g
        id="g3462"
-       transform="matrix(1.5027335,0,0,2.6247252,-252.22031,-544.60019)">
+       transform="matrix(0,-1.5027335,2.6247252,0,-544.60019,376.33854)">
       <rect
          style="fill:#e6e6e6;stroke:#666666;stroke-width:1.8031;stroke-dasharray:none;stroke-dashoffset:0"
          id="rect3091"
@@ -128,14 +130,15 @@
       <text
          xml:space="preserve"
          style="font-size:10.5833px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.635;stroke-dasharray:none;stroke-dashoffset:0"
-         x="195.34367"
-         y="230.26959"
-         id="text3303"><tspan
+         x="395.25717"
+         y="-108.13921"
+         id="text3303"
+         transform="matrix(0,0.57252984,-1.7466339,0,0,0)"><tspan
            sodipodi:role="line"
            id="tspan3301"
            style="font-size:10.5833px;fill:#000000;stroke:none;stroke-width:0.635;stroke-dasharray:none"
-           x="195.34367"
-           y="230.26959">Seat</tspan></text>
+           x="395.25717"
+           y="-108.13921">Seat</tspan></text>
     </g>
   </g>
 </svg>
