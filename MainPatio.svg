@@ -25,14 +25,14 @@
      inkscape:document-units="in"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="0.77537666"
-     inkscape:cx="961.46819"
-     inkscape:cy="414.63719"
-     inkscape:window-width="2560"
-     inkscape:window-height="1387"
-     inkscape:window-x="2560"
+     inkscape:zoom="0.43861928"
+     inkscape:cx="950.71061"
+     inkscape:cy="239.38756"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <sodipodi:guide
        position="0,152.4"
@@ -222,58 +222,6 @@
          style="fill:#00ffff;stroke:#00ffff;stroke-width:0.635001;stroke-dasharray:none;stroke-opacity:1"
          d="m 445.32389,402.1582 v 99.48333"
          id="path2346" />
-    </g>
-    <g
-       id="g2394"
-       transform="matrix(0,-1.4082393,1.4078647,0,117.53421,328.88629)"
-       style="stroke-width:0.290093;stroke-dasharray:none">
-      <rect
-         style="fill:#e6e6e6;stroke:#666666;stroke-width:0.290093;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect2388"
-         width="32.055099"
-         height="32.047089"
-         x="179.17918"
-         y="210.30573" />
-      <text
-         xml:space="preserve"
-         style="font-size:8.16152px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.290093;stroke-dasharray:none;stroke-dashoffset:0"
-         x="226.46622"
-         y="-191.26642"
-         id="text2392"
-         transform="rotate(90)"><tspan
-           sodipodi:role="line"
-           id="tspan2390"
-           style="font-size:8.16152px;fill:#000000;stroke:none;stroke-width:0.290093;stroke-dasharray:none"
-           x="226.46622"
-           y="-191.26642">TÄRNÖ</tspan><tspan
-           sodipodi:role="line"
-           style="font-size:8.16152px;fill:#000000;stroke:none;stroke-width:0.290093;stroke-dasharray:none"
-           x="226.46622"
-           y="-181.06451"
-           id="tspan5574">Table</tspan></text>
-    </g>
-    <g
-       id="g4693"
-       transform="translate(-30.028477,26.957383)">
-      <rect
-         style="fill:#ccffaa;stroke:#338000;stroke-width:0.644055;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect4676"
-         width="50.156048"
-         height="100.95615"
-         x="-92.27121"
-         y="125.85087"
-         transform="rotate(-90)" />
-      <text
-         xml:space="preserve"
-         style="font-size:16.6258px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.45572;stroke-dasharray:none;stroke-dashoffset:0"
-         x="175.24924"
-         y="73.423805"
-         id="text4680"><tspan
-           sodipodi:role="line"
-           id="tspan4678"
-           style="font-size:16.6258px;fill:#000000;stroke:none;stroke-width:0.45572;stroke-dasharray:none"
-           x="175.24924"
-           y="73.423805">Pee Turf</tspan></text>
     </g>
     <path
        style="fill:#000000;stroke:#000000;stroke-width:1.07654;stroke-dasharray:1.07653999,2.15307999;stroke-opacity:1;stroke-dashoffset:0"

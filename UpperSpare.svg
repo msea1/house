@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
-   sodipodi:docname="UpperMiddleBed.svg"
+   sodipodi:docname="UpperSpare.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,13 +26,13 @@
      showgrid="true"
      showguides="true"
      inkscape:zoom="0.4665165"
-     inkscape:cx="1219.6782"
-     inkscape:cy="633.41811"
-     inkscape:window-width="2560"
-     inkscape:window-height="1387"
-     inkscape:window-x="2560"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:cx="725.59063"
+     inkscape:cy="623.77215"
+     inkscape:window-width="725"
+     inkscape:window-height="798"
+     inkscape:window-x="3875"
+     inkscape:window-y="1465"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <sodipodi:guide
        position="0,304.8"
@@ -163,7 +163,7 @@
     </g>
     <g
        id="g1235"
-       transform="translate(77.181786,76.300923)">
+       transform="rotate(90,85.628912,237.96625)">
       <rect
          style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.254148;stroke-dasharray:none;stroke-opacity:1"
          id="rect1229"
@@ -191,110 +191,8 @@
            id="tspan1237">stand</tspan></text>
     </g>
     <g
-       id="g4192"
-       transform="translate(-192.84798,-253.47736)">
-      <rect
-         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.281894;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1259"
-         width="45.224194"
-         height="45.250549"
-         x="340.36185"
-         y="270.02246" />
-      <text
-         xml:space="preserve"
-         style="font-size:15.1731px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.69598;stroke-dasharray:none;stroke-opacity:1"
-         x="487.66827"
-         y="214.183"
-         id="text1263"
-         transform="scale(0.74495577,1.3423616)"><tspan
-           sodipodi:role="line"
-           style="font-size:15.1731px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:none;stroke-width:1.69598;stroke-opacity:1"
-           x="487.66827"
-           y="214.183"
-           id="tspan1261">Ikea</tspan><tspan
-           sodipodi:role="line"
-           style="font-size:15.1731px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:none;stroke-width:1.69598;stroke-opacity:1"
-           x="487.66827"
-           y="233.14937"
-           id="tspan1267">Table</tspan></text>
-    </g>
-    <g
-       id="g672"
-       transform="matrix(0.99949831,0,0,1.0000013,-158.89095,-125.07752)">
-      <rect
-         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.39136;stroke-dasharray:none;stroke-opacity:1"
-         id="rect653"
-         width="56.787327"
-         height="69.458549"
-         x="244.14027"
-         y="166.81256" />
-      <text
-         xml:space="preserve"
-         style="font-size:18.9321px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
-         x="365.10843"
-         y="145.44688"
-         id="text659"
-         transform="scale(0.74536142,1.341631)"><tspan
-           sodipodi:role="line"
-           style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
-           x="365.10843"
-           y="145.44688"
-           id="tspan655">Ikea</tspan><tspan
-           sodipodi:role="line"
-           style="font-size:18.9321px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-opacity:1"
-           x="365.10843"
-           y="169.11201"
-           id="tspan657">Chair</tspan></text>
-    </g>
-    <g
-       id="g19966"
-       transform="matrix(0.99949831,0,0,1.0000013,-434.89532,100.02578)">
-      <rect
-         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.243848;stroke-dasharray:none;stroke-opacity:1"
-         id="rect19952"
-         width="66.464622"
-         height="23.039455"
-         x="533.58606"
-         y="42.637691" />
-      <text
-         xml:space="preserve"
-         style="font-size:10.586px;letter-spacing:1.32325px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
-         x="714.10083"
-         y="44.313339"
-         id="text19956"
-         transform="scale(0.74536142,1.341631)"><tspan
-           sodipodi:role="line"
-           style="font-size:10.586px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41991;stroke-opacity:1"
-           x="714.10083"
-           y="44.313339"
-           id="tspan19954">Office Shelves</tspan></text>
-    </g>
-    <g
-       id="g1275"
-       transform="matrix(0.99949831,0,0,1.0000013,151.97239,-96.353826)">
-      <rect
-         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.241326;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1269"
-         width="62.231682"
-         height="24.100309"
-         x="59.779034"
-         y="103.92149" />
-      <text
-         xml:space="preserve"
-         style="font-size:12.7032px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
-         x="88.452614"
-         y="91.176575"
-         id="text1273"
-         transform="scale(0.74536142,1.341631)"><tspan
-           sodipodi:role="line"
-           style="font-size:12.7032px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41991;stroke-opacity:1"
-           x="88.452614"
-           y="91.176575"
-           id="tspan1271">Shoe Case</tspan></text>
-    </g>
-    <g
        id="g1227"
-       transform="matrix(0.83246631,0,0,1.0000571,-21.691022,82.257918)">
+       transform="matrix(0.83246631,0,0,1.0000571,-20.103521,80.14125)">
       <rect
          style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.544998;stroke-dasharray:none;stroke-opacity:1"
          id="rect1217"
@@ -326,7 +224,7 @@
     </g>
     <g
        id="g21471"
-       transform="matrix(0.99949831,0,0,1.0000013,-396.46394,65.110081)">
+       transform="matrix(0.99949831,0,0,1.0000013,-385.121,125.22764)">
       <rect
          style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.249347;stroke-dasharray:none;stroke-opacity:1"
          id="rect21457"
@@ -346,6 +244,52 @@
            x="722.63092"
            y="93.509476"
            id="tspan21459">Heater</tspan></text>
+    </g>
+    <g
+       id="g1255"
+       transform="translate(137.92665,151.1259)">
+      <rect
+         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.195279;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1247"
+         width="38.963055"
+         height="25.204721"
+         x="37.651047"
+         y="123.81516" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41955;stroke-dasharray:none;stroke-opacity:1"
+         x="76.477875"
+         y="106.38937"
+         id="text1253"
+         transform="scale(0.74517397,1.3419685)"><tspan
+           sodipodi:role="line"
+           style="font-size:12.7px;text-align:center;text-anchor:middle;fill:#090808;fill-opacity:1;stroke:none;stroke-width:1.41955;stroke-opacity:1"
+           x="76.477875"
+           y="106.38937"
+           id="tspan1251">Winerack</tspan></text>
+    </g>
+    <g
+       id="g1275"
+       transform="matrix(0.99949831,0,0,1.0000013,-14.851604,168.73588)">
+      <rect
+         style="fill:#f9ab77;fill-opacity:1;stroke:#cf6410;stroke-width:0.241326;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1269"
+         width="62.231682"
+         height="24.100309"
+         x="59.779034"
+         y="103.92149" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.7032px;fill:#090808;fill-opacity:1;stroke:#000000;stroke-width:1.41991;stroke-dasharray:none;stroke-opacity:1"
+         x="88.452614"
+         y="91.176575"
+         id="text1273"
+         transform="scale(0.74536142,1.341631)"><tspan
+           sodipodi:role="line"
+           style="font-size:12.7032px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41991;stroke-opacity:1"
+           x="88.452614"
+           y="91.176575"
+           id="tspan1271">Shoe Case</tspan></text>
     </g>
   </g>
 </svg>
